@@ -1,0 +1,12 @@
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Data\bin\Debug\Data.dll.config
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Data\bin\Debug\Data.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Data\bin\Debug\Data.pdb
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Data\bin\Debug\EntityFramework.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Data\bin\Debug\Models.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Data\bin\Debug\Models.pdb
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Data\bin\Debug\EntityFramework.xml
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Data\obj\Debug\Data.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Data\obj\Debug\Data.pdb

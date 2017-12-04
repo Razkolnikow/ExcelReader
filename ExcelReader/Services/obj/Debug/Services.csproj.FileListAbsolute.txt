@@ -1,0 +1,9 @@
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Services\bin\Debug\Services.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Services\bin\Debug\Services.pdb
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Services\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Services\bin\Debug\ExcelDataReader.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Services\bin\Debug\ExcelDataReader.xml
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Services\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Services\obj\Debug\Services.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\MiniBackendMission\Services\obj\Debug\Services.pdb
